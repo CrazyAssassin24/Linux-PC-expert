@@ -1,0 +1,18 @@
+# Install with the Proj virtual environment activated:
+#   python3 -m pip install -r requirements-linux.txt
+# Python 3.10+ is recommended.
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-google-genai
+langchain-mistralai
+langgraph
+
+chromadb
+pypdf
+python-dotenv
+sentence-transformers
+torch
